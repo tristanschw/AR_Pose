@@ -1,4 +1,4 @@
-# AR_Pose
+# Vision
 Package including launch file to initialize webcam, TF and other image tracking.
 clone this workspace: git clone https://github.com/tristanschw/AR_Pose.git
 **IMPORTANT**
