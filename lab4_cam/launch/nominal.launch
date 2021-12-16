@@ -6,6 +6,6 @@
   <include file="$(find lab4_cam)/launch/run_cam.launch" />
   <include file="$(find lab4_cam)/launch/ar_track.launch" />
 
-  <node type="rviz" name="rviz" pkg="rviz" args="-d $~.rviz/USBCAM_pose.rviz" />
+  
 
 </launch>
